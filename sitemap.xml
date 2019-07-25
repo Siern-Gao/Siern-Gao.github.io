@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://siern-gao.github.io/2019/07/25/%E5%BC%80%E7%AF%87-Github+Git+Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E8%BF%87%E7%A8%8B%E8%AE%B0%E5%BD%95(Windows)/</loc>
+    
+    <lastmod>2019-07-25T09:33:13.274Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://siern-gao.github.io/books/index.html</loc>
     
     <lastmod>2019-07-25T08:39:02.000Z</lastmod>
@@ -40,13 +47,6 @@
     <loc>https://siern-gao.github.io/about/index.html</loc>
     
     <lastmod>2019-07-25T08:14:57.736Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://siern-gao.github.io/2019/07/24/hello-world/</loc>
-    
-    <lastmod>2019-07-25T07:43:18.302Z</lastmod>
     
   </url>
   
