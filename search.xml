@@ -8,7 +8,7 @@
       <link href="/2019/07/25/%E5%BC%80%E7%AF%87-Github+Git+Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E8%BF%87%E7%A8%8B%E8%AE%B0%E5%BD%95(Windows)/"/>
       <url>/2019/07/25/%E5%BC%80%E7%AF%87-Github+Git+Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E8%BF%87%E7%A8%8B%E8%AE%B0%E5%BD%95(Windows)/</url>
       
-        <content type="html"><![CDATA[<h1 id="开篇-Github-Git-Hexo搭建个人博客过程记录-Windows"><a href="#开篇-Github-Git-Hexo搭建个人博客过程记录-Windows" class="headerlink" title="开篇-Github+Git+Hexo搭建个人博客过程记录(Windows)"></a>开篇-Github+Git+Hexo搭建个人博客过程记录(Windows)</h1><hr><p>–2019-07-24，突发奇想的想搞个Blog来玩玩，但是又不想花钱，怎么办勒？<br>–于是乎，利用万能的度娘，还有谷哥，开启了这次的折腾之旅。</p><ol><li>经过度娘教育，Blog就是基本就是个人网站，那么需要基本的配置就是：服务器+域名+网站内容</li><li>首先解决的问题，就是——服务器；<ul><li>其实，免费的服务器早就已经存在，就是各位码农天天逛的牧场——Github。</li><li>首先，就是注册一个Github账户，然后建一个仓库。</li><li>服务器问题就这样解决了，当然域名问题也解决了。</li></ul></li><li>接下来就是网站了：<ul><li>网站问题，首先是模板(自己写也可以)，主题样式。</li></ul></li><li>然后就是编辑上传问题了：<ul><li>经过验证，利用Git上传至Github仓库还是很实用的。</li></ul></li><li>这里具体的操作，和踩过的坑，待往后徐徐道来，这是第一次写作至Blog，太激动！</li></ol><p>–以上，写于2019-07-25.</p>]]></content>
+        <content type="html"><![CDATA[<hr><p>–2019-07-24，突发奇想的想搞个Blog来玩玩，但是又不想花钱，怎么办勒？<br>–于是乎，利用万能的度娘，还有谷哥，开启了这次的折腾之旅。</p><ol><li>经过度娘教育，Blog就是基本就是个人网站，那么需要基本的配置就是：服务器+域名+网站内容</li><li>首先解决的问题，就是——服务器；<ul><li>其实，免费的服务器早就已经存在，就是各位码农天天逛的牧场——Github。</li><li>首先，就是注册一个Github账户，然后建一个仓库。</li><li>服务器问题就这样解决了，当然域名问题也解决了。</li></ul></li><li>接下来就是网站了：<ul><li>网站问题，首先是模板(自己写也可以)，主题样式。</li></ul></li><li>然后就是编辑上传问题了：<ul><li>经过验证，利用Git上传至Github仓库还是很实用的。</li></ul></li><li>这里具体的操作，和踩过的坑，待往后徐徐道来，这是第一次写作至Blog，太激动！</li></ol><p>–以上，写于2019-07-25.</p>]]></content>
       
       
       
